@@ -23,5 +23,6 @@ A suíte contém **20 cenários de teste** documentados utilizando o padrão **B
 Você pode baixar e visualizar a planilha completa detalhada com os passos de execução e massas de dados aqui:
 👉 **[Baixar/Visualizar Planilha de Casos de Teste](./Desenho_de_casos_de_teste_%28Formatacao_para_google_planilhas%29.xlsx)**
 
+<img width="1749" height="630" alt="image" src="https://github.com/user-attachments/assets/93785c5f-e6c6-4efe-a0b5-248e0bb474fb" />
 ---
 *Desenvolvido por Lucas Matos*
