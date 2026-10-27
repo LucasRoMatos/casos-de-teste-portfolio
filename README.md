@@ -24,4 +24,4 @@ Você pode baixar e visualizar a planilha completa detalhada com os passos de ex
 👉 **[Baixar/Visualizar Planilha de Casos de Teste](./Desenho_de_casos_de_teste_%28Formatacao_para_google_planilhas%29.xlsx)**
 
 ---
-*Desenvolvido por [Seu Nome / Lucas Rodrigues Matos]*
+*Desenvolvido por Lucas Matos*
